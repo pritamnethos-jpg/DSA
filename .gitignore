@@ -1,0 +1,5 @@
+# Ignore output folders
+**/output/
+
+# Ignore Windows executable files
+*.exe
